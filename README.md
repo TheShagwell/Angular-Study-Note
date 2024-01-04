@@ -1,11 +1,11 @@
-# Angular-case-study
+# Angular Case Study
 The project on angular
 
 Am here to preach the goodnews of getting started on Angular.
 
 ## Course outline that will be used
 These below will be updated as it goes 
-- [ ] Introduction to Angular 
+- [x] Introduction to Angular 
 - [ ] Basic syntax of Angular 
 
 #### We kickstart by learning Angular 15, 16 & 17 versions
@@ -13,5 +13,4 @@ These below will be updated as it goes
 
 **The Angular project will be based on config, codes, syntax**
 
-
-> The work of shagwell and its team :joy: 
+> The work of shagwell and its team :cool:
