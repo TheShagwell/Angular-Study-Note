@@ -1,4 +1,4 @@
-# Angular Case Study
+# Angular Case Study 2024
 The project on angular
 
 Am here to preach the goodnews of getting started on Angular.
