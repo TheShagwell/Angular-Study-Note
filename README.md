@@ -4,7 +4,7 @@ The project on angular
 Am here to preach the goodnews of getting started on Angular.
 The sole aim purpose of this work is to learn how to use the framework better 2024 by God's Grace. 
 
-## Course outline that will be used
+### Course outline that will be used
 These below will be updated as it goes 
 - [x] Introduction to Angular 
 - [x] Basic syntax of Angular 
