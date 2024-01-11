@@ -14,4 +14,4 @@ These below will be updated as it goes
 
 **The Angular project will be based on config, codes, syntax**
 
-> The work of shagwell and its team :cool:
+> The work of Ezrah and its team :cool:
