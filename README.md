@@ -8,6 +8,8 @@ The project on angular
 These below will be updated as it goes 
 - [x] Introduction to Angular 
 - [x] Basic syntax of Angular 
+- [ ] Text Interpolation
+- [ ] Binding & Pipes
 
 #### We kickstart by learning Angular 15, 16 & 17 versions
 ![Angular Photo](https://miro.medium.com/v2/resize:fit:1200/1*aCsnm9viiL5Fo0JC-I_exQ.png "New Angular Photo 2023")
